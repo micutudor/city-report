@@ -1,5 +1,6 @@
 # city-report
 ## Prezentare
+[Videoclip prezentare](https://www.youtube.com/watch?v=b5jy7Cq_zZ0).
 Aplicatia City Report este o solutie dezvoltata in React Native pentru a face relatia dintre cetateni si autoritatile locale mult mai usoara. Aplicatia prezinta urmatoarele pagini:
 * Sesizare noua - Cetatenii pot deschide o sesizare la locatia curenta sau alegand un punct de pe harta ori cautand locatia dorita folosind bara de cautare. Sesizarea poate fii deschisa pe raza UAT (in acest caz, municipiul Barlad). Acestia trebuie sa aleaga categoria sesizarii si sa scrie o descriere a situatiei. Acestia mai pot atasa si o fotografie din galerie pentru a face munca autoritatilor mai usoara.
 * Sesizarile mele - Pe aceasta pagina sunt afisate toate sesizarile deschise de utilizator. Sesizarile ce au primit raspuns prezinta un chenar verde, celelalte fiind marcate cu rosu. De altfel utilizatorii pot sterge sesizarile, sau pot vedea mai multe detalii despre sesizarea in cauza precum numarul de inregistrare, descriere sau daca este cazul, raspunsul autoritatilor.
