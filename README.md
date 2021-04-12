@@ -20,3 +20,12 @@ JSON
 }
 ```
 ### Answer reports
+```url
+POST https://api.inorog.org/api/complaint/answer.php?id=[complaint_id]&session_key=dIzVAzIHBWwfa7G3QihJFbpjd1kNggye
+```
+JSON
+```json
+{
+	"text": "Becul a fost inlocuit, multumim de sesizare!",
+}
+```
