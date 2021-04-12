@@ -44,7 +44,7 @@ Or access from [here](https://expo.io/@tud0r/projects/esesizari).
 ```url
 POST https://api.inorog.org/api/news/publish.php?session_key=dIzVAzIHBWwfa7G3QihJFbpjd1kNggye
 ```
-JSON
+Body example
 ```json
 {
 	"header": "Investitii in reabilitarea scolilor",
@@ -56,7 +56,7 @@ JSON
 ```url
 POST https://api.inorog.org/api/complaint/answer.php?id=[complaint_id]&session_key=dIzVAzIHBWwfa7G3QihJFbpjd1kNggye
 ```
-JSON
+Body example
 ```json
 {
 	"text": "Becul a fost inlocuit, multumim de sesizare!",
