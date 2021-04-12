@@ -14,7 +14,7 @@ In dezvoltarea aplicatiei au fost folosite urmatoarele dependinte:
 * react-navigation/native
 * react-navigation/stack
 * expo
-* expo-image-picker
+* expo-image-picker - acces la functionalitatea nativa pentru galerie.
 * expo-location - acces la functionalitatea nativa pentru geolocalizare.
 * expo-status-bar
 * geolib - este folosita functia isPointInPolygon pentru a verifica daca marker-ul pentru a deschide o sesizare noua se afla in raza UAT.
